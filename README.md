@@ -25,6 +25,10 @@
 
 #2016-17 The Premmier League
 
-##참가팀
+##참가팀 소개
+<img src="http://66.media.tumblr.com/fd2904575d0d7f492cfa123b49697f2e/tumblr_o7wfilhWV91rgbsvxo1_1280.png" align=left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/880px-England_location_map.svg.png" align=right>
 ##현재 순위,승점,골득실 표
 ##다음 라운드 경기 일정
+##
+##
