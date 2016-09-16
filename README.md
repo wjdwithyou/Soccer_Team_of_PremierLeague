@@ -29,7 +29,6 @@
 <img  src="http://66.media.tumblr.com/fd2904575d0d7f492cfa123b49697f2e/tumblr_o7wfilhWV91rgbsvxo1_1280.png" align=left>
 **위 사진: 2016-17시즌 더 프리미어리그 참가 팀 로고**
 
-
 |    Team    | Location |    Team    | Location |    Team    | Location |    Team    | Location |    Team    | Location |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Arsenal | London | AFC Bournemouth | Bournemouth | Burnley | Burnley | Chelsea | London | Crystal Palace | London |
@@ -38,8 +37,32 @@
 | Swansea City | Swansea | Tottenham Hotsput | London | Watford | Watford | West Bromwich Albion | West Bromwich | West Ham United | London |
 
 
-
 ##현재 순위,승점,골득실 표
+
+| 순위 |         팀명         | 승 | 무 | 패 | 득점 | 실점 | 득실차 | 승점 |
+|:----:|:--------------------:|:--:|:--:|:--:|:----:|:----:|:------:|:----:|
+|   1  |    Manchester City   |  4 |  0 |  0 |  11  |   4  |   +7   |  12  |
+|   2  |        Chelsea       |  3 |  1 |  0 |   9  |   4  |   +5   |  10  |
+|   3  |        Everton       |  3 |  1 |  0 |   7  |   2  |   +5   |  10  |
+|   4  |   Manchester United  |  3 |  0 |  1 |   7  |   3  |   +4   |   9  |
+|   5  |   Tottenham Hotspur  |  2 |  2 |  0 |   7  |   2  |   +5   |   8  |
+|   6  |       Liverpool      |  2 |  1 |  1 |   9  |   7  |   +2   |   7  |
+|   7  |        Arsenal       |  2 |  1 |  1 |   8  |   6  |   +2   |   7  |
+|   8  |       Hull City      |  2 |  1 |  1 |   5  |   3  |   +2   |   7  |
+|   9  |     Middlesbrough    |  1 |  2 |  1 |   4  |   4  |    0   |   5  |
+|  10  |        Watford       |  1 |  1 |  2 |   7  |   8  |   -1   |   4  |
+|  11  |    Crystal Palace    |  1 |  1 |  2 |   3  |   4  |   -1   |   4  |
+|  12  | West Bromwich Albion |  1 |  1 |  2 |   2  |   3  |   -1   |   4  |
+|  13  |        Swansea       |  1 |  1 |  2 |   4  |   6  |   -2   |   4  |
+|  14  |        Burnley       |  1 |  1 |  2 |   3  |   5  |   -2   |   4  |
+|  15  |    AFC Bournemouth   |  1 |  1 |  2 |   3  |   5  |   -2   |   4  |
+|  16  |    Leciester City    |  1 |  1 |  2 |   4  |   7  |   -3   |   4  |
+|  17  |    West Ham United   |  1 |  0 |  3 |   5  |   9  |   -4   |   3  |
+|  18  |      Southampton     |  0 |  2 |  2 |   3  |   6  |   -3   |   2  |
+|  19  |      Sunderland      |  0 |  1 |  3 |   3  |   8  |   -5   |   1  |
+|  20  |      Stoke City      |  0 |  1 |  3 |   2  |  10  |   -8   |   1  |
+
+- 2016년 9월 17일 기준 (2016-17 더 프리미어리그 __4Round__ 기준)
 ##다음 라운드 경기 일정
 ##
 ##
