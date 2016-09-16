@@ -27,7 +27,16 @@
 
 ##참가팀 소개
 <img src="http://66.media.tumblr.com/fd2904575d0d7f492cfa123b49697f2e/tumblr_o7wfilhWV91rgbsvxo1_1280.png" align=left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/880px-England_location_map.svg.png" align=right>
+|   Team   |      Arsenal      |  AFC Bournemouth  |     Burnley    |        Chelsea       |  Crystal Palace |
+|:--------:|:-----------------:|:-----------------:|:--------------:|:--------------------:|:---------------:|
+| Location |       London      |    Bournemouth    |     Burnley    |        London        |      London     |
+|   Team   |      Everton      |     Hull City     | Leicester City |       Liverpool      | Manchester City |
+| Location |     Liverpool     |        Hull       |    Leiester    |       Liverpool      |    Manchester   |
+|   Team   | Manchester United |   Middlesbrough   |   Southampton  |      Stoke City      |    Sunderland   |
+| Location |     Manchestr     |   Middlesborugh   |   Southampton  |    Stoke-on-Trent    |    Sunderland   |
+|   Team   |    Swansea City   | Tottenham Hotspur |     Watford    | West Bromwich Albion | West Ham United |
+| Location |      Swansea      |       London      |     Watford    |     West Bromwich    |      London     |
+
 ##현재 순위,승점,골득실 표
 ##다음 라운드 경기 일정
 ##
