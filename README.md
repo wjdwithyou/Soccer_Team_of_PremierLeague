@@ -26,16 +26,18 @@
 #2016-17 The Premmier League
 
 ##참가팀 소개
-<img src="http://66.media.tumblr.com/fd2904575d0d7f492cfa123b49697f2e/tumblr_o7wfilhWV91rgbsvxo1_1280.png" align=left>
-|   Team   |      Arsenal      |  AFC Bournemouth  |     Burnley    |        Chelsea       |  Crystal Palace |
-|:--------:|:-----------------:|:-----------------:|:--------------:|:--------------------:|:---------------:|
-| Location |       London      |    Bournemouth    |     Burnley    |        London        |      London     |
-|   Team   |      Everton      |     Hull City     | Leicester City |       Liverpool      | Manchester City |
-| Location |     Liverpool     |        Hull       |    Leiester    |       Liverpool      |    Manchester   |
-|   Team   | Manchester United |   Middlesbrough   |   Southampton  |      Stoke City      |    Sunderland   |
-| Location |     Manchestr     |   Middlesborugh   |   Southampton  |    Stoke-on-Trent    |    Sunderland   |
-|   Team   |    Swansea City   | Tottenham Hotspur |     Watford    | West Bromwich Albion | West Ham United |
-| Location |      Swansea      |       London      |     Watford    |     West Bromwich    |      London     |
+<img  src="http://66.media.tumblr.com/fd2904575d0d7f492cfa123b49697f2e/tumblr_o7wfilhWV91rgbsvxo1_1280.png" align=left>
+**위 사진: 2016-17시즌 더 프리미어리그 참가 팀 로고**
+
+
+|    Team    | Location |    Team    | Location |    Team    | Location |    Team    | Location |    Team    | Location |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Arsenal | London | AFC Bournemouth | Bournemouth | Burnley | Burnley | Chelsea | London | Crystal Palace | London |
+| Everton | Liverpool | Hull City | Hull | Leicester City | Leicester | Liverpool | Liverpool | Manchester City | Manchester |
+| Manchester United | Manchester | Middlesbrough | Middlesborugh | Southampton | Southampton | Stoke City | Stoke-on-Trent | Sunderland | Sunderland |
+| Swansea City | Swansea | Tottenham Hotsput | London | Watford | Watford | West Bromwich Albion | West Bromwich | West Ham United | London |
+
+
 
 ##현재 순위,승점,골득실 표
 ##다음 라운드 경기 일정
