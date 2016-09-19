@@ -1,6 +1,6 @@
 #Liverpool FC (리버풀 FC)
 ##팀 로고
-<img width="200" src="http://cdn.namuwikiusercontent.com/64/64c67fdec44d57c7542364084113366b6f145e404742624f7f4ef4be144e320f.png?e=1475257936&k=oxFQuBmXo_JpNtyNTbcQVg">
+<img width="200" src="https://lh3.googleusercontent.com/-TrtEHOgcMFE/AAAAAAAAAAI/AAAAAAABaus/7gBUqvDpeh0/s0-c-k-no-ns/photo.jpg">
 ##지역 및 경기장
  - 지역(연고지) : 리버풀 (Liverpool)
  - 경기장 : 안필드 (Anfield Stadium)
